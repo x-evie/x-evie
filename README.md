@@ -1,0 +1,4 @@
+- 👋 Hi, I’m evie!
+- 👀 I’m interested in coding games and animations.
+- 🌱 I’m currently learning javascript and a bit of python.
+- 😬 I'm always looking for better ways to improve my coding.
